@@ -20,5 +20,8 @@ Se replica la apariencia visual, ofreciendo una navegación similar con un dise�
 
 ![Demo](imagenes/preview.png)
 
+![image](https://github.com/xelrojas/interfazdepinterest/assets/70447276/5614402e-d886-4eac-87e9-8ccc344d9c92)
+
+
 ### Contacto 📞
 Si te gustaría invitarme a colaborar en un proyecyo, escríbeme por [LinkedIn](https://www.linkedin.com/in/xelicpaularojasruelas/) .
