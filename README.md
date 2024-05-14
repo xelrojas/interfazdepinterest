@@ -19,4 +19,4 @@ Se replica la apariencia visual, ofreciendo una navegación similar con un dise�
 ### Vista previa del proyecto 💫
 
 ### Contacto 📞
-Si te gustaría invitarme a colaborar en un proyecyo, escríbeme por [LinkedIn]([url](https://www.linkedin.com/in/xelicpaularojasruelas/))
+Si te gustaría invitarme a colaborar en un proyecyo, escríbeme por [LinkedIn](https://www.linkedin.com/in/xelicpaularojasruelas/)
